@@ -4,4 +4,5 @@
 
 # Решение
 Находится в файле lab1.ipynb
+
 В ходе решения был использован алгоритм ICP (iterative closest point), который был любезно взят со StackOverflow.
